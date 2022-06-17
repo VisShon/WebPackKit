@@ -1,0 +1,17 @@
+body {
+  background-color:#1C78C0;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  padding: 20px;
+}
+h3 {
+  margin: 0;
+  letter-spacing: 2px;
+  color: #8ED5FA;
+}
